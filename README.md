@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ydvsajal.github.io/S.P-NEW/)
 
-- 📫 How to reach me **Sajalkumar1765@gmail.com**
+- 📫 How to reach me **sajalkumar1765@gmail.com**
 
 - ⚡ Fun fact **I'm hilarious**
 
