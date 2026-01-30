@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ydvsajal.github.io/S.P-NEW/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ydvsajal.vercel.app/#contact)
 
 - 📫 How to reach me **sajalkumar1765@gmail.com**
 
