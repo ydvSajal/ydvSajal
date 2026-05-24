@@ -22,7 +22,7 @@
 ```js
 const sajal = {
   name     : "Sajal Kumar",
-  location : "India 🇮🇳",
+  location : "Earth",
   role     : "Frontend Developer",
   learning : "MERN Stack",
   portfolio: "https://sajalyadav.vercel.app",
