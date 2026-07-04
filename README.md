@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=200&section=header&text=Hey,%20I'm%20Sajal%20%F0%9F%91%BE&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
-
-<a href="https://github.com/ydvSajal">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1400&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=SYSTEM.BOOT+%3E%3E+sajal.exe;AI+AGENTS+%2F%2F+WEB3+%2F%2F+FULL-STACK;STATUS%3A+BUILDING+IN+PUBLIC;LOADING%3A+BOOKMARK+BRAIN+%2B+AGENPAY+%2B+WISPER" alt="Typing SVG" />
-</a>
+<img src="assets/terminal-boot.svg" width="100%" alt="terminal boot animation" />
 
 <br/>
 
