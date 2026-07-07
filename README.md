@@ -100,7 +100,19 @@ const sajal = {
 
 </div>
 
-> ⚠️ Requires a one-time setup — see **"Enabling the snake animation"** in the setup notes below.
+> ⚠️ Requires a one-time setup — see "Enabling the snake animation" below.
+
+<details>
+<summary>🐍 Enabling the snake animation</summary>
+The image above only renders once the workflow has run at least once in your repo.
+
+Save snake.yml as .github/workflows/snake.yml in your ydvSajal/ydvSajal repo and push it.
+In that repo, go to Settings → Actions → General → Workflow permissions, select Read and write permissions, then Save.
+Push (or manually trigger the workflow from the Actions tab). It creates an output branch containing the generated SVGs — check Actions to confirm it finished.
+Once the output branch exists, the image in this README loads automatically. It also re-runs daily at midnight UTC, so your snake stays current.
+
+If the image still shows broken after that, double check the branch is actually named output and that the two srcset URLs above match your username exactly.
+</details>
 
 ---
 
