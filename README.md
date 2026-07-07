@@ -107,13 +107,13 @@ const sajal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ydvsajal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ydvSajal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydvsajal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydvSajal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ydvsajal&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ydvSajal&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ydvsajal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=ydvSajal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
 
 </div>
 
@@ -121,7 +121,7 @@ const sajal = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ydvsajal&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ydvSajal&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 
 </div>
 
@@ -134,7 +134,7 @@ const sajal = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://sajalyadav.vercel.app/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-kumar-6a0b5930a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajalsky1765)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30765158/ydvsajal)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30765158/ydvSajal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalkumar1765@gmail.com)
 
 </div>
