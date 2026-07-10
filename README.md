@@ -107,13 +107,13 @@ const sajal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ydvSajal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ydvSajal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydvSajal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ydvSajal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ydvSajal&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=ydvSajal&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ydvSajal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=ydvSajal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
 
 </div>
 
