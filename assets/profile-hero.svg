@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Sajal Kumar — AI, full-stack, Web3 and hardware builder</title>
+<desc id="desc">A dark terminal-inspired banner with cyan circuit traces, a lime processor, and the words Ideas into code. Code into things you can use. Open to collaborations.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#18232E" stroke-width="0.7"/></pattern>
+  <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#75E7F0"/><stop offset=".46" stop-color="#26343E"/><stop offset="1" stop-color="#C8FF79"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#164048" stop-opacity=".6"/><stop offset="1" stop-color="#0B1117" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .sans{font-family:Arial,Helvetica,sans-serif}
+  .mono{font-family:Consolas,'Liberation Mono',monospace}
+  .trace{stroke-dasharray:10 180;animation:flow 9s linear infinite}
+  .cursor{animation:blink 1.4s steps(2,end) infinite}
+  .signal{animation:signal 3s ease-in-out infinite}
+  @keyframes flow{to{stroke-dashoffset:-380}}
+  @keyframes blink{50%{opacity:.15}}
+  @keyframes signal{50%{opacity:.45}}
+  @media(prefers-reduced-motion:reduce){.trace,.cursor,.signal{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="458" rx="22" fill="#0B1117" stroke="url(#edge)"/>
+<rect x="2" y="2" width="1196" height="456" rx="21" fill="url(#grid)" opacity=".6"/>
+<ellipse cx="955" cy="224" rx="240" ry="220" fill="url(#halo)"/>
+<path d="M32 68H1168" stroke="#26333D"/>
+<g class="mono" font-size="14" letter-spacing="1.5">
+  <circle cx="38" cy="36" r="5" fill="#FF7069"/><circle cx="57" cy="36" r="5" fill="#EFC66F"/><circle cx="76" cy="36" r="5" fill="#C8FF79"/>
+  <text x="103" y="41" fill="#9AABB8">sajal / build-mode</text>
+  <circle cx="933" cy="36" r="4" fill="#C8FF79" class="signal"/>
+  <text x="948" y="41" fill="#C8FF79" font-size="12">OPEN TO COLLAB</text>
+</g>
+<g class="sans">
+  <text x="48" y="113" fill="#75E7F0" font-size="13" font-weight="700" letter-spacing="3">AI SYSTEMS / WEB3 / HARDWARE</text>
+  <text x="42" y="219" fill="#F0F6FC" font-size="112" font-weight="800" letter-spacing="-7">SAJAL<tspan fill="#C8FF79">.</tspan></text>
+  <text x="48" y="272" fill="#F0F6FC" font-size="29" font-weight="700">Ideas into code.</text>
+  <text x="48" y="312" fill="#9AABB8" font-size="25">Code into things you can use.</text>
+</g>
+<g stroke="#355461" stroke-width="1.5">
+  <circle cx="945" cy="227" r="137" stroke-dasharray="3 9"/>
+  <circle cx="945" cy="227" r="103"/>
+  <path d="M808 227H757L731 201H698M1082 227H1138M945 90V79M945 364V383M848 130L824 106H785M1042 324L1069 351H1113"/>
+  <path d="M884 183H865V159H825M1006 270H1025V295H1065M890 273H870V304H835M1006 184H1030V157H1063"/>
+</g>
+<g stroke="#75E7F0" stroke-width="2" class="trace"><path d="M698 201H731L757 227H808"/><path d="M1006 270H1025V295H1065"/><path d="M945 90V124"/></g>
+<rect x="883" y="165" width="124" height="124" rx="22" fill="#101E24" stroke="#C8FF79" stroke-width="1.5"/>
+<rect x="895" y="177" width="100" height="100" rx="14" fill="#15282A" stroke="#456445"/>
+<g stroke="#C8FF79" stroke-width="2">
+  <path d="M908 154V165M926 154V165M945 154V165M964 154V165M982 154V165M908 289V300M926 289V300M945 289V300M964 289V300M982 289V300M872 190H883M872 208H883M872 227H883M872 246H883M872 264H883M1007 190H1018M1007 208H1018M1007 227H1018M1007 246H1018M1007 264H1018"/>
+</g>
+<text x="945" y="245" text-anchor="middle" class="mono" fill="#C8FF79" font-size="47" font-weight="700">&gt;_</text>
+<g class="mono" font-size="12" letter-spacing="1">
+  <rect x="756" y="106" width="113" height="30" rx="7" fill="#101B23" stroke="#2D4855"/><text x="812" y="126" text-anchor="middle" fill="#75E7F0">AI AGENTS</text>
+  <rect x="1030" y="145" width="107" height="30" rx="7" fill="#101B23" stroke="#2D4855"/><text x="1083" y="165" text-anchor="middle" fill="#75E7F0">WEB3</text>
+  <rect x="1000" y="329" width="136" height="30" rx="7" fill="#151E18" stroke="#405839"/><text x="1068" y="349" text-anchor="middle" fill="#C8FF79">EMBEDDED</text>
+</g>
+<circle cx="808" cy="227" r="4" fill="#75E7F0"/><circle cx="945" cy="90" r="4" fill="#C8FF79"/><circle cx="1082" cy="227" r="4" fill="#75E7F0"/>
+<path d="M32 386H1168" stroke="#26333D"/>
+<g class="mono" font-size="14">
+  <text x="48" y="426" fill="#75E7F0">$</text><text x="68" y="426" fill="#BCCAD5">build --curious --ship</text><rect x="309" y="413" width="8" height="16" rx="1" fill="#C8FF79" class="cursor"/>
+  <text x="1152" y="425" text-anchor="end" fill="#8296A5" font-size="12" letter-spacing="1">FULL-STACK MINDSET. REAL-WORLD OUTPUT.</text>
+</g>
+</svg>
