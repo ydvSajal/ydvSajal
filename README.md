@@ -1,144 +1,127 @@
 <div align="center">
-
-<img src="assets/terminal-boot.svg" width="100%" alt="terminal boot animation" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ydvSajal&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO%20COLLAB-00e5ff?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<a href="https://twitter.com/sajalsky1765"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
+  <img src="assets/profile-hero.svg" width="100%" alt="Sajal Kumar — AI systems, full-stack, Web3 and hardware. Ideas into code. Code into things you can use." />
+  <br /><br />
+  <a href="https://sajalyadav.vercel.app"><b>Portfolio ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sajal-kumar-6a0b5930a/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://twitter.com/sajalsky1765"><b>X / Twitter</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sajalkumar1765@gmail.com"><b>Let's talk ↗</b></a>
+  <br /><br />
+  <sub>AI engineer · Full-stack developer · Web3 builder · Hardware tinkerer</sub>
 </div>
 
----
+<br />
 
-```
-┌──────────────────────────────────────────────┐
-│  STATUS       : 🟢 ONLINE & BUILDING          │
-│  FOCUS        : Agentic AI Systems            │
-│  STACK        : TypeScript / Next.js / Web3   │
-│  CURRENT ARC  : Polaris Fellowship — Round 2   │
-└──────────────────────────────────────────────┘
-```
+I build agents, apps, and devices that turn interesting problems into useful products. Currently exploring **agentic systems**, **loop engineering**, and **AI × hardware**.
 
-```js
+```ts
 const sajal = {
-  name       : "Sajal Kumar",
-  role       : "AI Engineer • Full-Stack Dev • Web3 Builder",
-  focus      : ["Agentic Systems", "Loop Engineering", "AI x Hardware"],
-  building   : ["Bookmark Brain", "AgenPay", "Wisper"],
-  portfolio  : "https://sajalyadav.vercel.app",
-  contact    : "sajalkumar1765@gmail.com",
-  funFact    : "I'm hilarious (allegedly) ⚡",
-  openTo     : ["collaborations", "open source", "cool ideas"],
+  building: ["Bookmark Brain", "AgenPay", "Wisper"],
+  exploring: ["agentic systems", "loop engineering", "AI × hardware"],
+  openTo: ["collaborations", "open source", "cool ideas"],
+  funFact: "I'm hilarious (allegedly).",
 };
 ```
 
----
+<br />
 
-### 🕹️ Currently Building
+## 01 / On my workbench
 
-| Project | What it does |
-|---|---|
-| 🔖 **Bookmark Brain** | Chrome extension (Manifest V3 + TypeScript) — local semantic search over bookmarks using on-device embeddings |
-| 💸 **AgenPay** | AI-native crypto payment infra on Sei Network, agent-driven via LangGraph |
-| 🎙️ **Wisper** | Conversation recorder app with a dark, glassy UI |
-| 🧠 **Physical AI Wearable** | Helps people remember who they've met and what they talked about — Round 2, Polaris Fellowship 2026 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔖 Bookmark Brain
+**Your bookmarks, with a memory.**
 
-### ⚡ Tech Stack
+Local semantic search over bookmarks using on-device embeddings. A Chrome extension built to find the thing you saved, even when you forget its title.
 
-<div align="center">
+`Manifest V3` `TypeScript` `On-device AI`
 
-**Frontend**
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00e5ff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ff2e97)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=00e5ff)
+</td>
+<td width="50%" valign="top">
 
-**Backend & Data**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=9d4edd)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ff2e97)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=9d4edd)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00e5ff)
+### 💸 AgenPay
+**Payments that agents can actually make.**
 
-**AI / Web3 / Automation**
-<br/>
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff2e97)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=9d4edd)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&labelColor=0d1117&color=00e5ff)
-![Make.com](https://img.shields.io/badge/Make.com-0d1117?style=for-the-badge&logo=make&logoColor=ff2e97)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=9d4edd)
+AI-native crypto payment infrastructure on Sei Network, with agent-driven workflows powered by LangGraph.
 
-**Tools & Infra**
-<br/>
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff2e97)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9f1c)
-![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Embedded-0d1117?style=for-the-badge&logo=espressif&logoColor=9d4edd)
+`Sei Network` `LangGraph` `Web3`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎙️ Wisper
+**Capture the conversation. Keep the context.**
 
-### 📈 Contribution Snake
+A conversation recorder app with a dark, glassy interface, built around capturing the moments worth remembering.
 
-<div align="center">
+`Conversation capture` `App development`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Physical AI Wearable
+**Remember the people behind the handshake.**
+
+A wearable that helps you remember who you met, what you discussed, and where to pick up the conversation.
+
+`AI × Hardware` `Wearables`
+
+<sub>Polaris Fellowship 2026 — Round 2</sub>
+
+</td>
+</tr>
+</table>
+
+[Explore my repositories ↗](https://github.com/ydvSajal?tab=repositories) · [Visit my portfolio ↗](https://sajalyadav.vercel.app)
+
+<br />
+
+## 02 / Tools I reach for
+
+| Layer | Toolkit |
+| :--- | :--- |
+| **Interfaces** | `Next.js` `React` `TypeScript` `Tailwind CSS` |
+| **Backend & data** | `Node.js` `Express` `PostgreSQL` `Prisma` `Supabase` |
+| **AI & automation** | `Python` `LangGraph` `n8n` `Make.com` |
+| **Web3** | `Solidity` `Sei Network` |
+| **Infrastructure** | `Git` `Docker` `AWS` `Vercel` |
+| **Hardware** | `ESP32` `Embedded development` |
+
+<br />
+
+## 03 / The build trail
+
+[Repositories ↗](https://github.com/ydvSajal?tab=repositories) &nbsp;·&nbsp; [Contributions ↗](https://github.com/ydvSajal?tab=overview) &nbsp;·&nbsp; [Stars ↗](https://github.com/ydvSajal?tab=stars)
+
+<details>
+<summary><b>Watch the contribution snake</b></summary>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ydvSajal/ydvSajal/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ydvSajal/ydvSajal/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ydvSajal/ydvSajal/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ydvSajal/ydvSajal/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake following Sajal's GitHub contribution history" />
 </picture>
 
-</div>
+</details>
 
+<br />
 
----
+## 04 / Start a conversation
 
-### 📊 GitHub Stats
+Working on an agent, a Web3 product, or a hardware experiment? I'd love to hear about it.
 
-<div align="center">
+**[Email](mailto:sajalkumar1765@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/sajal-kumar-6a0b5930a/)** &nbsp;·&nbsp; **[X / Twitter](https://twitter.com/sajalsky1765)** &nbsp;·&nbsp; **[Stack Overflow](https://stackoverflow.com/users/30765158/ydvSajal)**
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ydvSajal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-&nbsp;
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ydvSajal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<br />
 
-<img src="https://streak-stats.demolab.com/?user=ydvSajal&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img src="https://github-profile-trophy-ruddy.vercel.app/?username=ydvSajal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
-
-</div>
-
-### 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ydvSajal&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-
-</div>
-
----
-
-### 🌐 Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://sajalyadav.vercel.app/#contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-kumar-6a0b5930a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajalsky1765)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30765158/ydvSajal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalkumar1765@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=80&section=footer&animation=twinkling" width="100%" />
-</div>
+<a href="mailto:sajalkumar1765@gmail.com">
+  <img src="assets/profile-footer.svg" width="100%" alt="Have a strange idea? Let's build it. Email Sajal." />
+</a>
